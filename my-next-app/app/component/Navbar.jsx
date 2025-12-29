@@ -1,5 +1,3 @@
-
-
 function Navbar() {
     return (
         <nav className="bg-purple-950 h-[75px] flex items-center justify-between px-6 border-b-2 border-gray-300">
@@ -18,5 +16,4 @@ function Navbar() {
         </nav>
     );
 }
-
 export default Navbar;
